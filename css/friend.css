@@ -20,6 +20,7 @@
 .friend .friend__column {
   display: flex;
   align-items: center;
+  padding-bottom: 30px;
 }
 
 .friend .friend__avatar {
