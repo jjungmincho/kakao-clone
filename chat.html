@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="css/styles.css">
     <title>Chat | Kakao Clone</title>
 </head>
-<body>
+<body class="chats-body">
     <div class="status-bar">
     <div class="status-bar__column>
     <span class="status-bar__clock">13:54</span>
@@ -36,24 +36,23 @@
         </span>
     </div>
     </header>
-    <main class="chat">
+    <main class="chat-screen">
         <ul class="chat__messages">
             <span class="chat__timestamp">Wednesday, June 10, 2020</span>
             <li class="incoming-message message">
                 <img src="images/avatar.jpg" class="m-avator message__avatar"/>
                 <div class="message__content">
-                    <span class="message__author">Best Friend</span>
+                    <span class="message__author">Cookie</span>
                     <div class="message__bubble">
                         How are you doing?
                     </div>
                 </div>
-                <span class="message__timestamp"></span>
             </li>
-            <li class="incoming-message message">
+            <li class="sent-message message">
                 <span class="message__timestamp"></span>
                 <div class="message__content">
                     <div class="message__bubble">
-                        I am good. What's up?
+                        I'm good. What's up?
                     </div>
                 </div>
             </li>
@@ -68,7 +67,7 @@
         </div>
         <div class="chat__write-column">
             <span class="chat__write-icon">
-             <i class="far fa-smile-wink"></i>
+            <i class="far fa-smile-wink"></i>
             </span>
             <span class="chat__write-icon">
                 <i class="fas fa-microphone"></i>
