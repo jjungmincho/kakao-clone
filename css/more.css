@@ -22,7 +22,8 @@
   cursor: not-allowed;
 }
 
-.more__btn .more__btn-title {
+.more__btn .more__btn-title,
+.more__suggestions .suggestion__title {
   font-size: 14px;
   margin-top: 10px;
 }
