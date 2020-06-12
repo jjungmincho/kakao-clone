@@ -1,4 +1,5 @@
-.friends .friends__header {
+.friends .friends__header,
+.friends__list .friend__column {
   padding-bottom: 20px;
 }
 
