@@ -67,3 +67,21 @@
   background-color: #f5f5f5;
   border-radius: 5px;
 }
+
+.friend-notification {
+  flex-direction: column;
+}
+
+.friend .friend__column .chat__badge {
+  position: relative;
+  margin-top: 5px;
+  font-size: 10px;
+  color: white;
+  background-color: #dc5d46;
+  width: 18px;
+  height: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+}
