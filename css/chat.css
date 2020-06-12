@@ -95,8 +95,18 @@
 }
 
 .incoming-message .message__author {
-  margin-bottom: 10px;
+  margin-top: 10px;
   display: block;
   font-weight: 600;
   font-size: 12px;
+}
+
+.incoming-message .message__bubble {
+  border-top-left-radius: 0px;
+  text-align: center;
+}
+
+.sent-message .message__bubble {
+  border-bottom-right-radius: 0px;
+  text-align: center;
 }
