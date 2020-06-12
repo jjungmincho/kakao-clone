@@ -85,3 +85,16 @@
   align-items: center;
   border-radius: 50%;
 }
+
+@keyframes nav_badgeSpin {
+  from {
+    transform: none;
+  }
+  to {
+    transform: rotateY(1turn);
+  }
+}
+
+.nav__badge {
+  animation: nav__badgeSpin 1s linear infinite;
+}
