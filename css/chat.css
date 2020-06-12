@@ -19,7 +19,7 @@
 
 .chats-body {
   background-image: url("../images/chatBg.png");
-  min-height: 110vh;
+  min-height: 105vh;
 }
 
 .chat__write {

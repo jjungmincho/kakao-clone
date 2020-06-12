@@ -86,15 +86,31 @@
   border-radius: 50%;
 }
 
-@keyframes nav_badgeSpin {
-  from {
-    transform: none;
+@keyframes PopBadge {
+  0% {
+    transform: scale(1);
   }
-  to {
-    transform: rotateY(1turn);
+  50% {
+    transform: scale(1.4);
+  }
+  60% {
+    transform: scale(1.1);
+  }
+  70% {
+    transform: scale(1.2);
+  }
+  80% {
+    transform: scale(1);
+  }
+  90% {
+    transform: scale(1.1);
+  }
+  100% {
+    transform: scale(1);
   }
 }
 
+.chat__badge,
 .nav__badge {
-  animation: nav__badgeSpin 1s linear infinite;
+  animation: PopBadge 1s linear infinite;
 }
