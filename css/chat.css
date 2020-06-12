@@ -53,7 +53,6 @@
 }
 
 .chat__messages .chat__timestamp {
-  background-color: rgb(255, 227, 232);
   font-size: 12px;
   padding: 5px 10px;
   border-radius: 10px;
@@ -88,7 +87,6 @@
 }
 
 .message .message__bubble {
-  background-color: pink;
   padding: 10px;
   border-radius: 30px;
   box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.2);
@@ -104,9 +102,11 @@
 .incoming-message .message__bubble {
   border-top-left-radius: 0px;
   text-align: center;
+  background-color: pink;
 }
 
 .sent-message .message__bubble {
   border-bottom-right-radius: 0px;
   text-align: center;
+  background-color: rgb(162, 142, 255);
 }
