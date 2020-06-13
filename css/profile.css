@@ -1,0 +1,57 @@
+#profile-body {
+  background-image: url("../images/profileBg.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  color: white;
+}
+
+.profile-avatar {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.profile-avatar__image {
+  width: 100px;
+  border-radius: 35%;
+  margin-bottom: 15px;
+}
+
+.profile-avatar__name {
+  font-weight: 600;
+  font-size: 20px;
+  padding-bottom: 8px;
+}
+
+.profile-avatar__status,
+.profile-nav__title {
+  font-weight: 300;
+  opacity: 0.6;
+  font-size: 12px;
+}
+
+.profile-nav {
+  position: fixed;
+  width: 100%;
+  padding: 40px 50px;
+  bottom: 10px;
+  left: 0px;
+  border-top: 0.5px solid #b3b3b3;
+}
+
+.profile-nav .profile-nav__list {
+  display: flex;
+  justify-content: space-between;
+}
+
+.profile-nav i {
+  font-size: 25px;
+  padding-bottom: 15px;
+}
+
+.profile-nav__list-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
