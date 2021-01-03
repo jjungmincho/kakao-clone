@@ -35,7 +35,7 @@ Note that this project is built for mobile screen only. If you check it from pc 
 
 ### Chat
 ![kakao2](https://user-images.githubusercontent.com/40417828/103488045-8971e580-4dbe-11eb-8a94-77e61f456448.png)
-![kakao3](https://user-images.githubusercontent.com/40417828/103488047-8c6cd600-4dbe-11eb-9a56-81edd1952dba.png)
+![kakao3](https://user-images.githubusercontent.com/40417828/103488426-4d8c4f80-4dc1-11eb-9c76-2e8e2e8e96c6.png)
 
 ### Find
 ![kakao4](https://user-images.githubusercontent.com/40417828/103488070-b8885700-4dbe-11eb-8f2c-f1f8d9e2b2d6.png)
