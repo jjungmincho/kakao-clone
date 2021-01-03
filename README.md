@@ -45,7 +45,7 @@ Note that this project is built for mobile screen only. If you check it from pc 
 ![kakao5](https://user-images.githubusercontent.com/40417828/103488078-c0e09200-4dbe-11eb-94a6-2542d50d0ee5.png)
 ![kakao6](https://user-images.githubusercontent.com/40417828/103488079-c211bf00-4dbe-11eb-83ac-3dc2114f5262.png)
 
---
+---
 
 ## Sources
 - [Nomade Coders](https://nomadcoders.co/kokoa-clone)
