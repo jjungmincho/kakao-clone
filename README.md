@@ -1,14 +1,14 @@
 # KakaoTalk Application Clone
 
-KakaoTalk is the most popular social network messenger in South Korea. By cloning this app, I could recall how to use HTML and CSS. Also, I learned how to host my project online by using Github Pages and some basic CSS animation. To see my Kakao clone app, click the following [link](https://jjessicacho.github.io/kakao-clone).
+KakaoTalk is the most popular social network messenger in South Korea. By cloning this app, I could recall how to use HTML and CSS. Also, I learned how to host my project online by using Github Pages and some basic CSS animation. To see my Kakao clone app, click the following [link](https://jjungmincho.github.io/kakao-clone).
 
 ---
 
 ## Table of Content
-- [Technologies](https://github.com/jjessicacho/kakao-clone#technologies)
-- [Setup](https://github.com/jjessicacho/kakao-clone#setup)
-- [Features](https://github.com/jjessicacho/kakao-clone#features)
-- [Sources](https://github.com/jjessicacho/kakao-clone#sources)
+- [Technologies](https://github.com/jjungmincho/kakao-clone#technologies)
+- [Setup](https://github.com/jjungmincho/kakao-clone#setup)
+- [Features](https://github.com/jjungmincho/kakao-clone#features)
+- [Sources](https://github.com/jjungmincho/kakao-clone#sources)
 
 ---
 
